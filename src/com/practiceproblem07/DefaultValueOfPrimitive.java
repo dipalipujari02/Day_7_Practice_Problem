@@ -1,6 +1,4 @@
-package com.practicejava;
-
-import jdk.dynalink.beans.StaticClass;
+package com.practiceproblem07;
 
 public class DefaultValueOfPrimitive {
 

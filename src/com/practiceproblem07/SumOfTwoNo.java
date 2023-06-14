@@ -1,6 +1,4 @@
-package com.practicejava;
-
-import java.util.Scanner;
+package com.practiceproblem07;
 
 public class SumOfTwoNo {
     public static void main(String[] args) {

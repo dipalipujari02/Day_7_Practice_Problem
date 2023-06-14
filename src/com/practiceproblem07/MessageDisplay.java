@@ -1,4 +1,4 @@
-package com.practicejava;
+package com.practiceproblem07;
 
 public class MessageDisplay {
     public static void main(String[] args) {
